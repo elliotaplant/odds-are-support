@@ -1,2 +1,3 @@
-# odds-are-support
-Support for the Odds Are for Messenger app
+# Odds Are for Messenger Support
+Have an issue? Go to the "Issues" tab above to let me know about it. Thanks!
+\- Elliot
